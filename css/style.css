@@ -1,0 +1,84 @@
+/************************************************CLASS*********************************************************/
+.mid-content {
+    width: 90%;
+    margin:auto;
+}
+
+
+.h1-vmax {
+    font-size: 3vmax;
+}
+
+.tshirts {
+    padding-left: 1rem;
+    width: 20vmax;
+}
+
+.p-vmax {
+    font-size: 2vmax;
+}
+
+.price-vmax {
+    font-size: 2.1vmax;
+}
+
+.social {
+    display:inline-block;
+    padding-right: 2rem;
+    font-size: x-small;
+}
+
+.social-media {
+    display: inline block;
+}
+
+.copy {
+    font-size: x-small;
+    color: whitesmoke;
+}
+
+.persona {
+    margin: 0;
+}
+
+.lnks {
+    color: whitesmoke;
+}
+
+.lnks:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+/************************************************IDs***********************************************************/
+#navigation {
+    background-color: #322f3d;
+}
+
+#nav-brand {
+    color: whitesmoke;
+}
+
+#menu-icon {
+    border: 1px solid black;
+}
+
+
+
+
+/*********************************************ELEMENTS*********************************************************/
+section {
+    background-color: #eeeeee;
+    margin-top: 1rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #322f3d;
+}
+
+a {
+    text-decoration: none;
+}
